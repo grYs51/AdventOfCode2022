@@ -5,7 +5,8 @@
   "main": "index.ts",
   "scripts": {
     "day1": "ts-node day_1/index.ts",
-    "day2": "ts-node day_2/index.ts"
+    "day2": "ts-node day_2/index.ts",
+    "day3": "ts-node day_3/index.ts"
   },
   "repository": {
     "type": "git",
