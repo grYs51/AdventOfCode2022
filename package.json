@@ -7,7 +7,8 @@
     "day1": "ts-node day_1/index.ts",
     "day2": "ts-node day_2/index.ts",
     "day3": "ts-node day_3/index.ts",
-    "day4": "ts-node day_4/index.ts"
+    "day4": "ts-node day_4/index.ts",
+    "day5": "nodemon day_5/index.ts"
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,11 @@
   },
   "homepage": "https://github.com/grYs51/AdventOfCode2022#readme",
   "dependencies": {
+    "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
     "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.13"
   }
 }
