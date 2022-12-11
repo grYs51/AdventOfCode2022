@@ -8,7 +8,8 @@
     "day2": "ts-node day_2/index.ts",
     "day3": "ts-node day_3/index.ts",
     "day4": "ts-node day_4/index.ts",
-    "day5": "nodemon day_5/index.ts"
+    "day5": "nodemon day_5/index.ts",
+    "day6": "nodemon day_6/index.ts"
   },
   "repository": {
     "type": "git",
